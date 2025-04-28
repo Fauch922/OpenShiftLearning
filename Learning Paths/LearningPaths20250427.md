@@ -44,7 +44,7 @@ Courses:
 
 The Administrator Specializations offer skills in a plethora of areas, such as multicluster management and storage management.
 
-![Administrator Specializations Path](resources/Administrator_Specializations.png "Administrator Specalizations Path")
+![Administrator Specializations Path](resources/administrator_specializations.png "Administrator Specalizations Path")
 
 ## The Developer Track
 
@@ -54,10 +54,10 @@ The Developer Track focuses on developing applications running on Red Hat OpenSh
 
 The Application Developer Path is the core skill path for the Administration Track.
 
-![Application Developer Skill Path](resources/Developer_Skill_Path.png "Application Developer Skill Path")
+![Application Developer Skill Path](resources/developer_skill_path.png "Application Developer Skill Path")
 
 ### Application Developer Specializations
 
 The Administrator Specializations offer skills in a plethora of areas, such as multicluster management and storage management.
 
-![Application Developer Specializations Path](resources/Developer_Specializations.png "Application Developer Specializations Path")
+![Application Developer Specializations Path](resources/developer_specializations.png "Application Developer Specializations Path")
