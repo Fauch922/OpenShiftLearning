@@ -13,7 +13,7 @@ The Administration Track focuses on setting up, managing, and maintaining Red Ha
 
 The Administrator Skill Path is the core skill path for the Administration Track. The EX180 was retired and is no longer available.
 
-![Administrator Skill Path](resources/Administrator_Skill_Path.png "Administrator Skill Path")
+![Administrator Skill Path](resources/administrator_skill_path.png "Administrator Skill Path")
 
 
 ### Virtualization Skill Path
